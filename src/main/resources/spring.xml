@@ -27,7 +27,7 @@
 			<list>
 				<value>classpath:config-local.properties</value>
 				<value>
-					file:/webser/java_webapps/englishsite/config/config.properties
+					file:/data/webapps/config/englishsite/config.properties
 				</value>
 			</list>
 		</property>
