@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<taglib xmlns="http://java.sun.com/xml/ns/j2ee"  
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+    xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-jsptaglibrary_2_0.xsd"  
+    version="2.0">  
+      
+    <description>Category Functions</description>  
+    <tlib-version>1.0</tlib-version>  
+    <short-name>category</short-name>  
+    <uri>/categoryFunction</uri>  
+       
+      <function>  
+        <name>getCategoryName</name>  
+        <function-class>com.sohu.sendCloud.util.tld.CategoryTld</function-class>  
+        <function-signature>java.lang.String getCategoryName(java.lang.Integer,java.lang.Integer)</function-signature>
+        <example>${category.getCategoryName(1,1)}</example>
+       </function>
+      
+</taglib>
+   
