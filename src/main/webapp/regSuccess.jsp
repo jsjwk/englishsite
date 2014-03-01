@@ -4,21 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>英语站点首页</title>
+<title>注册成功</title>
 </head>
 <body>
-<h1>英语站点首页</h1>
+<h1>注册成功</h1>
 
-<h2>LOGO</h2>
-<h2>Banner</h2>
+恭喜您已经注册功能。
 
-
-<a href="/preReg.do"><h2>注册</h2></a>
-<a href="/login.do"><h2>登录</h2></a>
-<a href="/tryStudy.do"><h2>我要试用</h2></a>
-
-<h2>动态</h2>
-<h2>产品</h2>
-<h2>服务电话</h2>
+<a href="/login.do"><h2>去登录页面</h2></a>
 </body>
 </html>

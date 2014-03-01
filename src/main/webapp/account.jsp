@@ -4,21 +4,17 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>英语站点首页</title>
+<title>用户信息页面</title>
 </head>
 <body>
-<h1>英语站点首页</h1>
+<h1>用户信息页面</h1>
 
-<h2>LOGO</h2>
-<h2>Banner</h2>
+用户登录后看到的信息页面。
 
-
-<a href="/preReg.do"><h2>注册</h2></a>
-<a href="/login.do"><h2>登录</h2></a>
-<a href="/tryStudy.do"><h2>我要试用</h2></a>
-
-<h2>动态</h2>
-<h2>产品</h2>
-<h2>服务电话</h2>
+您的用户名是：……
+您的性别是：……
+您的充值余额是：……
+您的英语水平是：……
+您的学习进度是：……
 </body>
 </html>
